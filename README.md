@@ -6,6 +6,8 @@ Welcome to the data repository for the Data Science Training by Kirill Eremenko.
 
 ### Section 1: Introduction to Tableau
    -[Office Supplies](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P12-OfficeSupplies.csv)
+   
+   <img src="https://github.com/kshitijzutshi/Data-science-A-Z/blob/main/office%20supply%20sale_color%26label%20practice.png" width="350" height="350" />
 
 ### Section 2: How to use Tableau for Data Mining
    -[Churn Modelling](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P12-Churn-Modelling.xlsx)
